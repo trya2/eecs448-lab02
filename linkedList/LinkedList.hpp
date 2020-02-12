@@ -20,6 +20,7 @@ LinkedList<T>::~LinkedList()
 	}
 }
 
+
 template <typename T>
 bool LinkedList<T>::isEmpty() const
 {
